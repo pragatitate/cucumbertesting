@@ -12,6 +12,7 @@ public class Step extends Base {
 	public void user_launch_chrome_browser() {
 	    // Write code here that turns the phrase above into concrete actions
 	    throw new io.cucumber.java.PendingException();
+		
 	}
 
 	@When("user openurl {string}")
